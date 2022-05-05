@@ -1,5 +1,5 @@
 ---
-layout: ante up
+layout: default
 ---
 
 # Apratado:1
