@@ -21,6 +21,9 @@ How to do a "Hello World " in c# /Cómo hacer un "Hola mundo" en c#
 # World's Hardest Game
 <iframe src="https://www.juegosjuegos.com/embed/impossible-game" width="970" height="690" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" webkitallowfullscreen="true" mozallowfullscreen="true" msallowfullscreen="true" allowfullscreen="true" />
 
+Si necesitais el link del juego es el siguiente:
+https://mega.nz/folder/ET8Q1ILK#ugpfq38UxxY6fvgxpvAQng
+
 
 
 
